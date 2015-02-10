@@ -19,3 +19,4 @@ git-ls-files --others --exclude-from=.git/info/exclude
 .README.md.*
 pom.xml.versionsBackup
 maven-eclipse.xml
+.c9
